@@ -6,14 +6,14 @@ import requests
 import json
 
 # credentials to login to twitter api
-consumer_key = ''
-consumer_secret = ''
-access_token = ''
-access_secret = ''
+consumer_key = 'nmkCn8VhDEDXOE1L8bH56z0T8'
+consumer_secret = 'YOLwF6lSMjNnMykMHp6loIXAkNezeBfPAyLiLyAqRbO8CoeQsW'
+access_token = '1104117265589522433-bDsWbAIhxt1zxWfZUrHH09vg79HDEy'
+access_secret = 'osgL3bNwCo81APZyNyXOUfvSXAZq9xVBGZ8mXKKzXgqF2'
 
 # credentials for oxford dictionary api
-app_id = ""
-app_key = ""
+app_id = "c61f86ed"
+app_key = "3619c026aab8720030520f80a85191be"
 language = "en-gb"
 
 
