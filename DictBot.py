@@ -50,5 +50,5 @@ while total_words > 1:
         else:
             print('ERROR OCCURED! Request status code: ' + str(req.status_code))
     
-    time.sleep(30)  # (2400) this number of seconds (~40min) that allows for 1000 requests per month if constantly running
+    time.sleep(2400)  # (2400) this number of seconds (~40min) that allows for 1000 requests per month if constantly running
     total_words -= 1   
